@@ -6,3 +6,5 @@ I’m building hands-on projects and practicing real-time computer vision tasks 
 • Webcam video capture
 • Face detection
 • Object detection
+
+This repo documents my step-by-step learning journey in OpenCV with Python.
