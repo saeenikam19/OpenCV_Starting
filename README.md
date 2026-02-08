@@ -56,3 +56,11 @@ python filename.py
 Example:
 
 python webcam_capture.py
+
+### 🧠 Learning Progress
+
+✔️ Installation & Setup
+⬜ Image Processing
+⬜ Video Capture
+⬜ Face Detection
+⬜ Object Detection
