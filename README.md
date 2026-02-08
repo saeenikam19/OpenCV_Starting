@@ -36,3 +36,5 @@ This repository will be regularly updated as I progress through image processing
 ## 📂 Project Structure
 
 OpenCV-Tutorial/ │ ├── installation/ │ └── install_guide.md │ ├── image_processing/ │ ├── read_image.py │ ├── resize_image.py │ └── convert_gray.py │ ├── video_capture/ │ └── webcam_capture.py │ ├── face_detection/ │ └── face_detect.py │ ├── screenshots/ │ └── README.md
+
+Each folder contains programs based on specific OpenCV concepts from the official tutorials.
