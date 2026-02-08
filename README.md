@@ -41,3 +41,18 @@ Each folder contains programs based on specific OpenCV concepts from the officia
 
 ## ▶️ How to Run the Programs
 
+1️⃣ Clone the repository
+
+git clone https://github.com/your-username/OpenCV-Tutorial.git
+
+2️⃣ Navigate to project folder
+
+cd OpenCV-Tutorial
+
+3️⃣ Run any Python file
+
+python filename.py
+
+Example:
+
+python webcam_capture.py
