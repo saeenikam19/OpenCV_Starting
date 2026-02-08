@@ -32,3 +32,7 @@ print(cv2.__version__)
 If the version prints successfully, OpenCV is installed correctly ✅
 
 This repository will be regularly updated as I progress through image processing, video capture, face detection, and object detection tutorials.
+
+## 📂 Project Structure
+
+OpenCV-Tutorial/ │ ├── installation/ │ └── install_guide.md │ ├── image_processing/ │ ├── read_image.py │ ├── resize_image.py │ └── convert_gray.py │ ├── video_capture/ │ └── webcam_capture.py │ ├── face_detection/ │ └── face_detect.py │ ├── screenshots/ │ └── README.md
