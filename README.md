@@ -14,7 +14,9 @@ This repo documents my step-by-step learning journey in OpenCV with Python.
 ## 🛠️ Installation Process
 
 1️⃣ Install Python 
-Download from: https://www.python.org
+Download from: 
+
+    https://www.python.org
 
 2️⃣ Install OpenCV using pip
 
